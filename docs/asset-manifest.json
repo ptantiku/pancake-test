@@ -1,0 +1,34 @@
+{
+  "files": {
+    "static/js/0.44b5d663.chunk.js": "./pancake-test/static/js/0.44b5d663.chunk.js",
+    "static/js/0.44b5d663.chunk.js.map": "./pancake-test/static/js/0.44b5d663.chunk.js.map",
+    "main.js": "./pancake-test/static/js/main.e29c1cc2.chunk.js",
+    "main.js.map": "./pancake-test/static/js/main.e29c1cc2.chunk.js.map",
+    "runtime-main.js": "./pancake-test/static/js/runtime-main.6faffe7d.js",
+    "runtime-main.js.map": "./pancake-test/static/js/runtime-main.6faffe7d.js.map",
+    "static/css/3.191f4a61.chunk.css": "./pancake-test/static/css/3.191f4a61.chunk.css",
+    "static/js/3.f7b82506.chunk.js": "./pancake-test/static/js/3.f7b82506.chunk.js",
+    "static/js/3.f7b82506.chunk.js.map": "./pancake-test/static/js/3.f7b82506.chunk.js.map",
+    "static/js/4.70f89a24.chunk.js": "./pancake-test/static/js/4.70f89a24.chunk.js",
+    "static/js/4.70f89a24.chunk.js.map": "./pancake-test/static/js/4.70f89a24.chunk.js.map",
+    "static/js/5.2e37679f.chunk.js": "./pancake-test/static/js/5.2e37679f.chunk.js",
+    "static/js/5.2e37679f.chunk.js.map": "./pancake-test/static/js/5.2e37679f.chunk.js.map",
+    "static/js/6.12d4bafc.chunk.js": "./pancake-test/static/js/6.12d4bafc.chunk.js",
+    "static/js/6.12d4bafc.chunk.js.map": "./pancake-test/static/js/6.12d4bafc.chunk.js.map",
+    "static/js/7.4c5cc5f1.chunk.js": "./pancake-test/static/js/7.4c5cc5f1.chunk.js",
+    "static/js/7.4c5cc5f1.chunk.js.map": "./pancake-test/static/js/7.4c5cc5f1.chunk.js.map",
+    "index.html": "./pancake-test/index.html",
+    "static/css/3.191f4a61.chunk.css.map": "./pancake-test/static/css/3.191f4a61.chunk.css.map",
+    "static/js/0.44b5d663.chunk.js.LICENSE.txt": "./pancake-test/static/js/0.44b5d663.chunk.js.LICENSE.txt",
+    "static/js/3.f7b82506.chunk.js.LICENSE.txt": "./pancake-test/static/js/3.f7b82506.chunk.js.LICENSE.txt",
+    "static/js/4.70f89a24.chunk.js.LICENSE.txt": "./pancake-test/static/js/4.70f89a24.chunk.js.LICENSE.txt",
+    "static/js/5.2e37679f.chunk.js.LICENSE.txt": "./pancake-test/static/js/5.2e37679f.chunk.js.LICENSE.txt",
+    "static/media/inter.css": "./pancake-test/static/media/Inter.var.a738a131.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6faffe7d.js",
+    "static/css/3.191f4a61.chunk.css",
+    "static/js/3.f7b82506.chunk.js",
+    "static/js/main.e29c1cc2.chunk.js"
+  ]
+}
